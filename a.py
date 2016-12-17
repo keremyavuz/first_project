@@ -5,3 +5,6 @@ print(a+b)
 c=a+b
 
 print(c)
+
+if c<5
+	print("c is smaller then 5")
